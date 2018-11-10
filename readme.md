@@ -1,4 +1,4 @@
-# Pizza CLI [![Build Status](https://travis-ci.com/xxczaki/pizza-cli.svg?branch=master)](https://travis-ci.com/xxczaki/pizza-cli)
+# Pizza CLI [![Build Status](https://travis-ci.org/xxczaki/pizza-cli.svg?branch=master)](https://travis-ci.org/xxczaki/pizza-cli)
 
 > Order pizza in a CLI app :pizza:
 
