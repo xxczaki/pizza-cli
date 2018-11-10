@@ -2,6 +2,8 @@
 
 > Order pizza in a CLI app :pizza:
 
+![Animated SVG](https://rawcdn.githack.com/xxczaki/pizza-cli/33ec8c1c50cc0bdc05619d0980d3cdbc39256508/pizza.svg)
+
 
 ## Install
 
