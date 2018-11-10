@@ -23,6 +23,43 @@ $ npm install --global pizza-cli
 	  $ pizza --order
 ```
 
+## Info
+
+All your orders are available in the `orders` folder :smile:
+
+Example order:
+```json
+{
+  "pizza": [
+    {
+      "size": "large",
+      "dough": "thick",
+      "ingredients": [
+        "pepperoni",
+        "bacon",
+        "sausage",
+        "ham"
+      ]
+    }
+  ],
+  "client": [
+    {
+      "name": "Anthony",
+      "phone": 777777777
+    }
+  ],
+  "address": [
+    {
+      "time": "12:34",
+      "city": "Boston",
+      "street": "National Street",
+      "number": "12b/44a",
+      "notes": "Please come quickly :D"
+    }
+  ]
+}          
+```
+
 
 ## License
 
