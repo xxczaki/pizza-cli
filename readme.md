@@ -12,6 +12,15 @@ $ npm install --global pizza-cli
 
 ## Usage
 
+```
+	Usage
+	  $ pizza <options>
+	Options
+	  --order, -o   		Order pizza
+	Examples
+	  $ pizza --order
+```
+
 
 ## License
 

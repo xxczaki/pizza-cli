@@ -1,6 +1,6 @@
 {
 	"name": "pizza-cli",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Order a pizza in a CLI app (just for fun!)",
 	"license": "MIT",
 	"repository": "xxczaki/pizza-cli",
